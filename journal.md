@@ -1,15 +1,18 @@
 ---
-title: "My Project Name"
-author: "your-name"
-description: "A short description of your project"
-created_at: "2026-03-20"
+title: "Custom Keyboard"
+author: "Luke Z"
+description: "Building a custom keyboard with a macro pad on left, and touch id sensor"
+created_at: "2026-08-16"
 ---
 
-# March 20: Designed the PCB layout
+# 2026-08-16: Planned the project
 
-Spent the day laying out traces in KiCad. Got the power section done
-and started routing the signal lines. Ran into some clearance issues
-with the USB connector footprint but found a workaround.
+I spent a lot of time researching what keyboard I actually want, before this I was using the most basic membrane so I didn't know too much about this. 
+I did reprogram the numpad to a macropad, so I knew I wanted a built in macro pad this time. I also want a knob, a oled, and a fingerprint sensor because those are all cool+ useful.
+
+<img width="2465" height="883" alt="IMG_0167" src="https://github.com/user-attachments/assets/6fbf07a8-a247-4b59-a9ca-82b4c72aee47" />
+
+
 
 ![pcb layout](images/pcb-v1.png)
 
