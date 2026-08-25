@@ -18,9 +18,9 @@ I also researched what switches/knobs I wanted because I didn't know anything ab
 # 2026-08-19: Detailed planning + specific part numbers
 I planned how stuff would work in keyboard layout editer. 
 I also picked the parts 
-* [Keyboard Component 1](https://www.aliexpress.us/item/3256806569868756.html)
-* [Keyboard Component 2](https://www.aliexpress.us/item/3256804721655912.html)
-* [Keyboard Component 3](https://www.aliexpress.us/item/3256812797810007.html)
+* [Fingerprint sensor](https://www.aliexpress.us/item/3256806569868756.html)
+* [Knob](https://www.aliexpress.us/item/3256804721655912.html)
+* [Oled](https://www.aliexpress.us/item/3256812797810007.html)
 
 <img width="559" height="194" alt="image" src="https://github.com/user-attachments/assets/4d198bf3-a941-4274-b29b-904406e2a01d" />
 
