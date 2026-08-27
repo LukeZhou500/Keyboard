@@ -26,6 +26,14 @@ I also picked the parts
 
 **Total time spent: 2 hour**
 
+# 2026-08-22: Did the schematic
+
+I made the schematic in KiCad, it was pretty straightforward since keeb had such a great guide. The hardest part was getting a footprint for my custom parts like my fingerprint sensor.
+
+<img width="635" height="371" alt="image" src="https://github.com/user-attachments/assets/02c9908a-3e7e-4c96-a31b-0af21581040e" />
+
+**Total time spent: 2 hours**
+
 # 2026-08-26: Finished the PCB editor!
 
 I finished the PCB, the DRC has no errors. It got much more tedious because my matrix is square, so the columns for the switches don't match the switch layout, and each wire had to go across multiple wires, so I needed to use lots of vias.
