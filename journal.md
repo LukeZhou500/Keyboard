@@ -32,4 +32,4 @@ I finished the PCB, the DRC has no errors. It got much more tedious because my m
 
 <img width="951" height="523" alt="image" src="https://github.com/user-attachments/assets/66d7fe5f-62a0-4fd7-9f78-8d5bbe80b87d" />
 
-**Total time spent: 3 hours**
+**Total time spent: 4 hours**
