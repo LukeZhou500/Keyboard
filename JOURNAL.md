@@ -28,7 +28,7 @@ I also picked the parts
 
 # 2026-08-22: Did the schematic
 
-I made the schematic in KiCad, it was pretty straightforward since keeb had such a great guide. The hardest part was getting a footprint for my custom parts like my fingerprint sensor.
+I made the schematic in KiCad, it was pretty straightforward since keeb had such a great guide. The hardest part was getting a footprint for my custom parts like my fingerprint sensor. Then I started the PCB editor, I spent a bit of time getting kbplacer to work with my diodes and wiring, but in the end I still had to manually place the stabs, diodes and traces.
 
 <img width="635" height="371" alt="image" src="https://github.com/user-attachments/assets/02c9908a-3e7e-4c96-a31b-0af21581040e" />
 
