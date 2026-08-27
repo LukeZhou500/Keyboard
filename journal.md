@@ -24,11 +24,7 @@ I also picked the parts
 
 <img width="559" height="194" alt="image" src="https://github.com/user-attachments/assets/4d198bf3-a941-4274-b29b-904406e2a01d" />
 
-
-Placed orders for all the SMD parts from LCSC. Also found a better
-LDO regulator that saves board space.
-
-**Total time spent: 1 hour**
+**Total time spent: 2 hour**
 
 # March 23: PCB arrived, started soldering
 
