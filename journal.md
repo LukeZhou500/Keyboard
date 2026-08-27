@@ -26,7 +26,7 @@ I also picked the parts
 
 **Total time spent: 2 hour**
 
-#Finished the PCB editor!
+# 2026-08-26: Finished the PCB editor!
 
 I finished the PCB, the DRC has no errors. It got much more tedious because my matrix is square, so the columns for the switches don't match the switch layout, and each wire had to go across multiple wires, so I needed to use lots of vias.
 
