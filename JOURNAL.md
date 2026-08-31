@@ -41,3 +41,12 @@ I finished the PCB, the DRC has no errors. It got much more tedious because my m
 <img width="951" height="523" alt="image" src="https://github.com/user-attachments/assets/66d7fe5f-62a0-4fd7-9f78-8d5bbe80b87d" />
 
 **Total time spent: 4 hours**
+
+# 2026-08-29: Did some CAD
+
+I started the CAD in onshape, I already knew how to use onshape so desigining the case itself wouldn't be too hard. I spent a lot of time finding and adding STEP files for each component though, because exporting my pcb from kikad only gave the bare PCB and Pi Pico. This is what I ended up with, its not perfect but its enough to design the case with. 
+
+<img width="574" height="241" alt="image" src="https://github.com/user-attachments/assets/5add722a-31a4-4574-a2e7-4541ff057f00" />
+
+**Total time spent: 2 hours**
+
